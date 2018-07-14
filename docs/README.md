@@ -1,4 +1,4 @@
-![jpg](./Sandbox_Logo_New2015.jpg)
+![jpg](Sandbox_Logo_new2015.jpg)
 # Python Intermediate Classroom
 
 Welcome to Python Fundementals, Intermediate edition! Our goal in this course is be to broaden the scope of you Python powers and introduce you to some fundemental ideas in Computer Science.
