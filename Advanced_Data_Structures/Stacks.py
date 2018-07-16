@@ -8,7 +8,7 @@ class My_Stack():
         self._stack =[]
         
         def __repr__(self):
-           a = ", ".join(str(x) for x in self._stack.reverse)
+           a = ", ".join(str(x) for x in reversed(self._stack))
             
         
     def push(self, item):
